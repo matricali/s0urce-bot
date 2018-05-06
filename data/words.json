@@ -1,4 +1,5 @@
 {
+  "http://s0urce.io/client/img/word/e/0": "loop",
   "http://s0urce.io/client/img/word/e/1": "temp",
   "http://s0urce.io/client/img/word/e/2": "http",
   "http://s0urce.io/client/img/word/e/3": "ping",
@@ -60,6 +61,7 @@
   "http://s0urce.io/client/img/word/e/59": "bytes",
   "http://s0urce.io/client/img/word/e/60": "client",
   "http://s0urce.io/client/img/word/e/61": "right",
+  "http://s0urce.io/client/img/word/m/0": "getpass",
   "http://s0urce.io/client/img/word/m/1": "userid",
   "http://s0urce.io/client/img/word/m/2": "fillgrid",
   "http://s0urce.io/client/img/word/m/3": "gridheight",
@@ -125,6 +127,7 @@
   "http://s0urce.io/client/img/word/m/63": "setport",
   "http://s0urce.io/client/img/word/m/64": "setping",
   "http://s0urce.io/client/img/word/m/65": "getping",
+  "http://s0urce.io/client/img/word/h/0": "createfilethread",
   "http://s0urce.io/client/img/word/h/1": "systemgridtype",
   "http://s0urce.io/client/img/word/h/2": "create3axisvector",
   "http://s0urce.io/client/img/word/h/3": "uploaduserstats",
